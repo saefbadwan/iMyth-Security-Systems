@@ -1,6 +1,3 @@
-﻿'بسم الله ابدأ
-'يا رب يا الله يا رحيم يا عظيم يا كريم جل جلالك بأسمائك يا الله وفقني برحمتك
-
 Imports System.IO
 Imports System.Threading
 Imports Microsoft.Win32
