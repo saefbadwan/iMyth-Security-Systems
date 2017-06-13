@@ -1,0 +1,10 @@
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\bin\Debug\SysCore.exe
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\bin\Debug\SysCore.pdb
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\bin\Debug\SysCore.xml
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\obj\x86\Debug\SysCore.Resources.resources
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\obj\x86\Debug\SysCore.exe
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\obj\x86\Debug\SysCore.xml
+C:\Users\iMSS\documents\visual studio 2010\Projects\SysCore\SysCore\obj\x86\Debug\SysCore.pdb

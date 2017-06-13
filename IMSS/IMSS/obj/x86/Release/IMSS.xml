@@ -1,0 +1,43 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IMSS
+</name>
+</assembly>
+<members>
+<member name="P:IMSS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSSREDCODES">
+	<summary>
+  Looks up a localized string similar to D6099259B078D226664C8BB27932EFB3
+44D88612FEA8A8F36DE82E1278ABB02F
+6CE6F415D8475545BE5BA114F208B0FF
+E4968EF99266DF7C9A1F0637D2389DAB
+4648E0A2FBFE469D8155F067DB0FB398
+40782BC57729C59BAA4CFD3A0D698437
+46B255D40ED4C9BEBA659C6075036226
+f0757e2587b6eb2845fdeb1a2eba6599
+426a5ce4f7c5f2bc010b85fa2ea946db
+8582021b1a85b214b0c031f58bc827a
+d84df9d063eb5b385ed04a4865dba81c
+9800aae15fecd97b2cd226d4bf543dcd
+969bd50272ba51ba75ea2f1396da22f8
+78c6ffb0f2250c22569abc5ea157cd3b
+0b0a8ec0bff9934f0e6c48548cfec4a3
+713 [rest of string was truncated]";.
+</summary>
+</member><member name="T:IMSS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,23 @@
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\bin\Debug\IMSS BackSetup.exe
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\bin\Debug\IMSS BackSetup.pdb
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\bin\Debug\IMSS BackSetup.xml
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\bin\Debug\Interop.NetFwTypeLib.dll
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\Interop.NetFwTypeLib.dll
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\IMSS BackSetup.vbproj.ResolveComReference.cache
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\IMSS_BackSetup.Resources.resources
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\IMSS BackSetup.exe
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\IMSS BackSetup.xml
+C:\Users\iMSS\documents\visual studio 2010\Projects\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\IMSS BackSetup.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\bin\Debug\IMSS BackSetup.exe
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\bin\Debug\IMSS BackSetup.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\bin\Debug\IMSS BackSetup.xml
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\IMSS_BackSetup.Resources.resources
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\IMSS BackSetup.exe
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\IMSS BackSetup.xml
+D:\IMSS Labs\IMSS Fixed\IMSS BackSetup\IMSS BackSetup\obj\x86\Debug\IMSS BackSetup.pdb

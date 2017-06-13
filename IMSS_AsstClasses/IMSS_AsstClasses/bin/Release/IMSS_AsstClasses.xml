@@ -1,0 +1,339 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IMSS_AsstClasses
+</name>
+</assembly>
+<members>
+<member name="P:IMSS_AsstClasses.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_Arrow_Icon_30x20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_Arrow_Icon_30x20_OnMouseOver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_CANCEL_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_Complete_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_Info_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_LoadimgGif_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_MainWindow_Buttons_BG_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_Minus_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_ProcessingWarning_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_RegeditAdd_MainIcon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_SKIP_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources._IMSS_StartMaintenanc_Icon_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources.IMSS_StartButtonOnMouseOver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS_AsstClasses.My.Resources.Resources.IMSS_StartButtonOnMouseStand">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:IMSS_AsstClasses.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:IMSS_AsstClasses.IMSS_PATHS.profileAppDataRoaming">
+	<summary>
+ This method is only declared to make, making changes to all variables that require
+ the AppData Roaming path, easier.
+ </summary>
+	<returns>Returns the user profile AppData Roaming path</returns>
+	<remarks>ie: C:\Users\%USERPROFILE%\AppData\Roaming</remarks>
+</member><member name="M:IMSS_AsstClasses.IMSS_PATHS.profileAppDataLocal">
+	<summary>
+ User profile application data local path.
+ </summary>
+	<returns>AppData Local</returns>
+	<remarks>N/A</remarks>
+</member><member name="M:IMSS_AsstClasses.IMSS_PATHS.profileAppDataLocalLow">
+	<summary>
+ User profile application data local low path.
+ </summary>
+	<returns>Returns the user profile LocalLow AppData path</returns>
+	<remarks>N/A</remarks>
+</member><member name="M:IMSS_AsstClasses.IMSS_PATHS.mozillaFireFoxPaths(System.String)">
+	<summary>
+ This method is used to identify the FF paths via the unique profile name
+ </summary>
+	<param name="pathType">Path type of path, ie: cookies, downloads, formhistory, cache</param>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerCookies">
+	<summary>
+ Path to Internet Explorer's cookies
+ </summary>
+	<remarks>N/A</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerCookiesDomStore">
+	<summary>
+ Path to IE's cookies via DOM Store
+ </summary>
+	<remarks>N/A</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerTemps">
+	<summary>
+ Path to Internet Explorer's temp files
+ </summary>
+	<remarks>N/A</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerHistory">
+	<summary>
+ Path to Internet Explorer's history
+ </summary>
+	<remarks>N/A</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerRecentlyTypedUrls">
+	<summary>
+ Path to Internet Explorer's recently typed URLs. See remarks.
+ </summary>
+	<remarks>IE's recently typed URLs are stored in the regstry, under HKCU.</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerIndexDat_1">
+	<summary>
+ Path to one of Internet Explorer's index.dat files
+ </summary>
+	<remarks>File, not directory. Index.dat files are usually locked. So you'll need to unlock it before deleting.</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerIndexDat_2">
+	<summary>
+ Path to one of Internet Explorer's index.dat files
+ </summary>
+	<remarks>File, not directory. Index.dat files are usually locked. So you'll need to unlock it before deleting.</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerIndexDat_3">
+	<summary>
+ Path to one of Internet Explorer's index.dat files
+ </summary>
+	<remarks>File, not directory. Index.dat files are usually locked. So you'll need to unlock it before deleting.</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerIndexDat_4">
+	<summary>
+ Path to one of Internet Explorer's index.dat files
+ </summary>
+	<remarks>File, not directory. Index.dat files are usually locked. So you'll need to unlock it before deleting.</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerIndexDat_5">
+	<summary>
+ Path to one of Internet Explorer's index.dat files
+ </summary>
+	<remarks>File, not directory. Index.dat files are usually locked. So you'll need to unlock it before deleting.</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.InternetExplorerIndexDat_6">
+	<summary>
+ Path to one of Internet Explorer's index.dat files
+ </summary>
+	<remarks>File, not directory. Index.dat files are usually locked. So you'll need to unlock it before deleting.</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.GoogleChromeCookies">
+	<summary>
+ Path to Google Chrome's cookies. See Remarks.
+ </summary>
+	<remarks>This is NOT a directory and is instead a file with no extension. I think it's a SQLITE database.
+ Either way, Chrome must be closed in order to delete this file and clear the cookies.</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.GoogleChromeCookiesDBs">
+	<summary>
+ Path to Google Chrome's database cookies.
+ </summary>
+	<remarks>Search recursively - directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.GoogleChromeCookiesLocalStorage">
+	<summary>
+ Path to Google Chrome's local storage cookies.
+ </summary>
+	<remarks> Search non-recursively - directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.GoogleChromeCache">
+	<summary>
+ Path to Google Chrome's cache.
+ </summary>
+	<remarks>N/A</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.GoogleChromeInternetHistory">
+	<summary>
+ Path to Google Chrome's history directory. See Remarks.
+ </summary>
+	<remarks>The history is contained in four different files that all contain the word "History" and must be deleted
+ in order to clear all of chrome's history. They look something like "History Index 2011-00-journal", "History Index 2011-00", 
+ "History", "History-journal". It's best to loop through each file in the directory, non-recursively, and filter for "History".</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.MozillaFireFoxCookies">
+	<summary>
+ Mozilla Firefox cookies path
+ </summary>
+	<remarks>Path is file not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.MozillaFireFoxCookiesWebAppsStore">
+	<summary>
+ Mozilla Firefox
+ </summary>
+	<remarks>Path is file, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.MozillaFireFoxDownloads">
+	<summary>
+ Mozilla Firefox Download history path
+ </summary>
+	<remarks>Path is file not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.MozillaFireFoxFormHistory">
+	<summary>
+ Mozilla Firefox form history path
+ </summary>
+	<remarks>Path is file not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.MozillaFireFoxCache">
+	<summary>
+ Mozilla Firefox cache path
+ </summary>
+	<remarks>Path is directory, not path</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.MozillaFirefoxSessionStore">
+	<summary>
+ Mozilla Firefox session store path
+ </summary>
+	<remarks>Path is a file, not a directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.MozillaFirefoxSessionStoreBackup">
+	<summary>
+ Mozilla Firefox session store backup path
+ </summary>
+	<remarks>Path is a file, not a directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.SafariCache">
+	<summary>
+ Safari cache path
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.SafariHistoryPlist">
+	<summary>
+ Safari History list
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.SafariHistoryLastSessionPlist">
+	<summary>
+ Safari last session path
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.SafariHistoryDownloadsPlist">
+	<summary>
+ Safari History downloads list
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.SafariHistory">
+	<summary>
+ Safari  History path
+ </summary>
+	<remarks>Directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.SafariWebpagePreviews">
+	<summary>
+ Safari Webpage Previews
+ </summary>
+	<remarks>Directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaCache">
+	<summary>
+ Opera Cache
+ </summary>
+	<remarks>Search recursively</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaOPCache">
+	<summary>
+ Opera OP Cache
+ </summary>
+	<remarks>N/A</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaIconCache">
+	<summary>
+ Opera Icon Cache
+ </summary>
+	<remarks>Search recursively</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaInternetHistory_1">
+	<summary>
+ Opera Internet History
+ </summary>
+	<remarks>Search recursively</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaInternetHistory_2">
+	<summary>
+ Opera Internet History - DAT Files
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaInternetHistory_3">
+	<summary>
+ Opera Internet History
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaInternetHistory_4">
+	<summary>
+ Opera Internet History
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaInternetHistory_5">
+	<summary>
+ Opera Internet History
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaInternetHistory_6">
+	<summary>
+ Opera Internet History
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaCookies">
+	<summary>
+ Opera Cookies
+ </summary>
+	<remarks>File, not directory</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaWebsiteIcon">
+	<summary>
+ Opera Website Icons
+ </summary>
+	<remarks>Do not recurse</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.OperaCacheTempDownloads">
+	<summary>
+ Opera Temporary Downloads - Download History
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.uTorrentTempFiles">
+	<summary>
+ Main uTorrent temp files. Typically "resume.dat.old" and "settings.dat.old"
+ </summary>
+	<remarks>Filter with *.old</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.uTorrentDllImageCache">
+	<summary>
+ uTorrent DLL Image Cache
+ </summary>
+	<remarks>N/A</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.SunJavaCache">
+	<summary>
+ Sun Java Cache
+ </summary>
+	<remarks>N/A</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.SunJavaSystemCache">
+	<summary>
+ Sun Java System Cache
+ </summary>
+	<remarks>N/A</remarks>
+</member><member name="F:IMSS_AsstClasses.IMSS_PATHS.FileZillaRecentServers">
+	<summary>
+ FileZilla Recent Server List
+ </summary>
+	<remarks>File, not directory</remarks>
+</member>
+</members>
+</doc>

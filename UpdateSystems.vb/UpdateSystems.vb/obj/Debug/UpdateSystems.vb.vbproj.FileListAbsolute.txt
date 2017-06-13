@@ -1,0 +1,11 @@
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\bin\Debug\UpdateSystems.vb.dll
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\bin\Debug\UpdateSystems.vb.pdb
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\bin\Debug\UpdateSystems.vb.xml
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\obj\Debug\UpdateSystems.vb.MainWindow.resources
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\obj\Debug\UpdateSystems.vb.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\obj\Debug\UpdateSystems.vb.dll
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\obj\Debug\UpdateSystems.vb.xml
+C:\Users\User\documents\visual studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\obj\Debug\UpdateSystems.vb.pdb

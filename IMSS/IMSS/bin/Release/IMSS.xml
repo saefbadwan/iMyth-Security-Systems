@@ -1,0 +1,331 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IMSS
+</name>
+</assembly>
+<members>
+<member name="P:IMSS.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._13592621542332">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Autorun_Button_Icon_27x23">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Back_Icon_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Block_USB_PORTS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Blue_Arrow_Down">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Blue_Arrow_Up">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_ClearQFiles_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Delete_Icon_32x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_DeleteButton_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_DeviceImmunizer_Icon_37x27">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_EncryptionProcess_Icon_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Error_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_ErrorExtracting_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_FindProcess_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Fix_Tools">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_G_Home_Status_Icon_27x37">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Genral_Protection">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_GreenCheck_Icon_24x24">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_GreenCheckMark_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Info_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Info_ToolTip">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_LoadimgGif_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_LockedItems_icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Log_Icon_24x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Main_G_Home_Icon_27x37">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_MainSettings_SettingsButton">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_MainVar_Icon_28x25">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_MainWindow_Buttons_BG_Image">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_MainWindowHideMe_Nutton_Icon_40x20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_ModeSettingsIcon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Monitors_Buttons_Icon_27x37">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_OpenFileLocation_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Pic_Fix_Tools">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Pr_Off">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_ProcessesManager_Loading_Icon_400x50">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_ProcessingFile_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Properties_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_PROTCION_SETTINGS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Q_Clear_Log_Icon_34x34">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Quarantine_Button_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_QuarantineRoom_Icon_24x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Refresh_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_RestoreTo_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_SaveSettings_20x20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Scan_USB_Button_Icon_37x37">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_ScanOnline_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_SecuritySettings_Icon_24x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_SelectedLang_Icon_16x16">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Set_Default">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Settings_Slide_Back_Button">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Tools_Bar_Icon_28x25">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Tools_Button_icon_27x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Tools_Icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_UAC_Icon_40x30">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_UnBlock_USB_PORTS">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_UnderScoureMini_Icon_10x2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_Update_Bar_Icon_28x25">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_UpdatePicSettings">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_UpdateSettings_24x32">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_USB_Configure">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_USB_Format">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_USB_Scan">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources._IMSS_USB_Status">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSS_Main_Logo_Title">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSS_Main_Logo_Title_OnMouseOver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSS_Monitors_BackGroundOnMuseOver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSS_SERVER">
+	<summary>
+  Looks up a localized resource of type System.Byte[].
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSS_StartButtonOnMouseOver">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSS_StartButtonOnMouseStand">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSS_System_Mointor_Logo_Title">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSSBlueArrow">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:IMSS.My.Resources.Resources.IMSSREDCODES">
+	<summary>
+  Looks up a localized string similar to D6099259B078D226664C8BB27932EFB3
+44D88612FEA8A8F36DE82E1278ABB02F
+6CE6F415D8475545BE5BA114F208B0FF
+E4968EF99266DF7C9A1F0637D2389DAB
+4648E0A2FBFE469D8155F067DB0FB398
+40782BC57729C59BAA4CFD3A0D698437
+46B255D40ED4C9BEBA659C6075036226
+f0757e2587b6eb2845fdeb1a2eba6599
+426a5ce4f7c5f2bc010b85fa2ea946db
+8582021b1a85b214b0c031f58bc827a
+d84df9d063eb5b385ed04a4865dba81c
+9800aae15fecd97b2cd226d4bf543dcd
+969bd50272ba51ba75ea2f1396da22f8
+78c6ffb0f2250c22569abc5ea157cd3b
+0b0a8ec0bff9934f0e6c48548cfec4a3
+713 [rest of string was truncated]";.
+</summary>
+</member><member name="T:IMSS.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

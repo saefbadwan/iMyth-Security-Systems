@@ -1,0 +1,420 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B0549005-3302-49C5-8780-210A88B56F89}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>IMSS.My.MyApplication</StartupObject>
+    <RootNamespace>IMSS</RootNamespace>
+    <AssemblyName>IMSS</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IMSS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IMSS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>IMSS Icons\1360166409_25410.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IMSS.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IMSS.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BetterListViewExpress-net20, Version=3.7.6.0, Culture=neutral, PublicKeyToken=e6c91a3add447be2, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="ConfigurationResureses, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\User\Documents\Visual Studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\bin\Release\ConfigurationResureses.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.4.0.1, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="IMSS_AsstClasses, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\IMSS_AsstClasses\IMSS_AsstClasses\bin\Release\IMSS_AsstClasses.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="OnlineSystems, Version=2.0.2.1, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\OnlineSystems\OnlineSystems\bin\Release\OnlineSystems.dll</HintPath>
+    </Reference>
+    <Reference Include="SurveillanceSystems, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SurveillanceSystems.vb\SurveillanceSystems.vb\bin\Release\SurveillanceSystems.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UpdateSystems">
+      <HintPath>C:\Users\User\Documents\Visual Studio 2010\Projects\UpdateSystems.vb\UpdateSystems.vb\bin\Release\UpdateSystems.dll</HintPath>
+    </Reference>
+    <Reference Include="USBConfig, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\User\Documents\Visual Studio 2010\Projects\USBConfig\USBConfig\bin\Release\USBConfig.dll</HintPath>
+    </Reference>
+    <Reference Include="USBDefenses, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Users\User\Documents\Visual Studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\bin\Release\USBDefenses.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="IMSS Classes\IMSS_REGE_SUB_FUNCTIONS.vb" />
+    <Compile Include="IMSS Classes\IMSS_ROOT_DECRYPTION.vb" />
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_Dvices_Encryption\IMSS_DriveEncryption.Designer.vb">
+      <DependentUpon>IMSS_DriveEncryption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_Dvices_Encryption\IMSS_DriveEncryption.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Quarantine_Controls\IMSS_Quarantine.Designer.vb">
+      <DependentUpon>IMSS_Quarantine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Quarantine_Controls\IMSS_Quarantine.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Update_Controls\IMSS_Update.Designer.vb">
+      <DependentUpon>IMSS_Update.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Update_Controls\IMSS_Update.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_USB_DVICE.Designer.vb">
+      <DependentUpon>IMSS_USB_DVICE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_USB_DVICE.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Settings_Controls\IMSS_UpdateSettings.Designer.vb">
+      <DependentUpon>IMSS_UpdateSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Settings_Controls\IMSS_UpdateSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Settings_Controls\IMSS_LOG.Designer.vb">
+      <DependentUpon>IMSS_LOG.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Settings_Controls\IMSS_LOG.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_LOGCotrolsUint.Designer.vb">
+      <DependentUpon>IMSS_LOGCotrolsUint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_LOGCotrolsUint.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_MonitorsCotrolsUint.Designer.vb">
+      <DependentUpon>IMSS_MonitorsCotrolsUint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_MonitorsCotrolsUint.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IMSS_RegConfig.Designer.vb">
+      <DependentUpon>IMSS_RegConfig.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS_RegConfig.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_DeviceImmunizer.Designer.vb">
+      <DependentUpon>IMSS_DeviceImmunizer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_DeviceImmunizer.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_USBScanCotrolsUint.Designer.vb">
+      <DependentUpon>IMSS_USBScanCotrolsUint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_USBScanCotrolsUint.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="MainMain.designer.vb">
+      <DependentUpon>MainMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MainMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="_IMSS_About.Designer.vb">
+      <DependentUpon>_IMSS_About.vb</DependentUpon>
+    </Compile>
+    <Compile Include="_IMSS_About.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Settings_Controls\IMSS_MainSettings.Designer.vb">
+      <DependentUpon>IMSS_MainSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="IMSS Users Controls\IMSS_Settings_Controls\IMSS_MainSettings.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_Dvices_Encryption\IMSS_DriveEncryption.resx">
+      <DependentUpon>IMSS_DriveEncryption.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_Quarantine_Controls\IMSS_Quarantine.resx">
+      <DependentUpon>IMSS_Quarantine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_Update_Controls\IMSS_Update.resx">
+      <DependentUpon>IMSS_Update.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_USB_DVICE.resx">
+      <DependentUpon>IMSS_USB_DVICE.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_Settings_Controls\IMSS_UpdateSettings.resx">
+      <DependentUpon>IMSS_UpdateSettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_Settings_Controls\IMSS_LOG.resx">
+      <DependentUpon>IMSS_LOG.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_LOGCotrolsUint.resx">
+      <DependentUpon>IMSS_LOGCotrolsUint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_MonitorsCotrolsUint.resx">
+      <DependentUpon>IMSS_MonitorsCotrolsUint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS_RegConfig.resx">
+      <DependentUpon>IMSS_RegConfig.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_DeviceImmunizer.resx">
+      <DependentUpon>IMSS_DeviceImmunizer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_USBProtection_Controls\IMSS_USBScanCotrolsUint.resx">
+      <DependentUpon>IMSS_USBScanCotrolsUint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMain.resx">
+      <DependentUpon>MainMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="_IMSS_About.resx">
+      <DependentUpon>_IMSS_About.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IMSS Users Controls\IMSS_Settings_Controls\IMSS_MainSettings.resx">
+      <DependentUpon>IMSS_MainSettings.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\app.manifest">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13592621542332.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="IMSS Icons\1360166409_25410.ico" />
+    <None Include="Resources\_IMSS_MainWindow_Buttons_BG_Image.png" />
+    <None Include="Resources\IMSS_Main_Logo_Title_OnMouseOver.png" />
+    <None Include="Resources\IMSS Main Logo Title.png" />
+    <None Include="Resources\1374978666_computer.png" />
+    <None Include="Resources\_IMSS_Genral_Protection.png" />
+    <None Include="Resources\_IMSS_DeviceImmunizer_Icon_37x27.png" />
+    <None Include="Resources\IMSS_StartButtonOnMouseOver.png" />
+    <None Include="Resources\IMSS_StartButtonOnMouseStand.png" />
+    <None Include="Resources\IMSS_SERVER.exe" />
+    <None Include="Resources\_IMSS_Info_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_LockedItems_icon_16x16.png" />
+    <None Include="Resources\_IMSS_Error_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_GreenCheckMark_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_LoadimgGif_Icon.gif" />
+    <None Include="Resources\_IMSS_EncryptionProcess_Icon_24x24.png" />
+    <None Include="Resources\_IMSS_ProcessingFile_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_ErrorExtracting_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_Properties_16x16.png" />
+    <None Include="Resources\_IMSS_ScanOnline_16x16.png" />
+    <None Include="Resources\_IMSS_FindProcess_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_OpenFileLocation_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_ProcessesManager_Loading_Icon_400x50.gif" />
+    <None Include="Resources\_IMSS_Blue_Arrow_Up.png" />
+    <None Include="Resources\_IMSS_Blue_Arrow_Down.png" />
+    <None Include="Resources\_IMSS_Back_Icon_32x32.png" />
+    <None Include="Resources\_IMSS_Delete_Icon_32x32.png" />
+    <None Include="Resources\_IMSS_Update_Bar_Icon_28x25.png" />
+    <None Include="Resources\_IMSS_Tools_Bar_Icon_28x25.png" />
+    <None Include="Resources\_IMSS_MainVar_Icon_28x25.png" />
+    <None Include="Resources\_IMSS_Q_Clear_Log_Icon_34x34.png" />
+    <None Include="Resources\_IMSS_Tools_Button_icon_27x32.png" />
+    <None Include="Resources\_IMSS_Main_G_Home_Icon_27x37.png" />
+    <None Include="Resources\_IMSS_G_Home_Status_Icon_27x37.png" />
+    <None Include="Resources\_IMSS_Autorun_Button_Icon_27x23.png" />
+    <None Include="Resources\_IMSS_Scan_USB_Button_Icon_37x37.png" />
+    <None Include="Resources\_IMSS_Monitors_Buttons_Icon_27x37.png" />
+    <None Include="Resources\_IMSS_ClearQFiles_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_RestoreTo_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_DeleteButton_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_Fix_Tools.png" />
+    <None Include="Resources\_IMSS_UnBlock_USB_PORTS.png" />
+    <None Include="Resources\_IMSS_Block_USB_PORTS.png" />
+    <None Include="Resources\_IMSS_QuarantineRoom_Icon_24x32.png" />
+    <None Include="Resources\_IMSS_UAC_Icon_40x30.png" />
+    <None Include="Resources\_IMSS_SaveSettings_20x20.png" />
+    <None Include="Resources\_IMSS_Set_Default.png" />
+    <None Include="Resources\_IMSS_Refresh_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_UpdateSettings_24x32.png" />
+    <None Include="Resources\_IMSS_SecuritySettings_Icon_24x32.png" />
+    <None Include="Resources\_IMSS_Log_Icon_24x32.png" />
+    <None Include="Resources\_IMSS_USB_Configure.png" />
+    <None Include="Resources\_IMSS_USB_Scan.png" />
+    <None Include="Resources\_IMSS_USB_Format.png" />
+    <None Include="Resources\_IMSS_Tools_Icon.png" />
+    <None Include="Resources\_IMSS_MainWindowHideMe_Nutton_Icon_40x20.png" />
+    <None Include="Resources\_IMSS_UnderScoureMini_Icon_10x2.png" />
+    <None Include="Resources\IMSS Monitors BackGroundOnMuseOver.png" />
+    <None Include="Resources\IMSS System Mointor Logo Title.png" />
+    <None Include="Resources\_IMSS_SelectedLang_Icon_16x16.png" />
+    <None Include="Resources\_IMSS_GreenCheck_Icon_24x24.png" />
+    <None Include="Resources\_IMSS_MainSettings_SettingsButton.png" />
+    <None Include="Resources\_IMSS_Settings_Slide_Back_Button.png" />
+    <None Include="Resources\_IMSS_Quarantine_Button_Icon.png" />
+    <None Include="Resources\_IMSS_Pic_Fix_Tools.png" />
+    <None Include="Resources\_IMSS_USB_Status.png" />
+    <None Include="Resources\_IMSS_UpdatePicSettings.jpg" />
+    <None Include="Resources\_IMSS_ModeSettingsIcon.png" />
+    <None Include="Resources\_IMSS_Info_ToolTip.png" />
+    <None Include="Resources\1.jpg" />
+    <EmbeddedResource Include="Resources\IMSSREDCODES.txt" />
+    <None Include="Resources\IMSSBlueArrow.png" />
+    <None Include="Resources\1197091975853818.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

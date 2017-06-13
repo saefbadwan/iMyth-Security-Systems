@@ -1,0 +1,104 @@
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS.exe.config
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.exe
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS.exe
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\BetterListViewExpress-net20.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\ConfigurationResureses.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\DevComponents.DotNetBar2.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS_AsstClasses.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\OnlineSystems.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\SurveillanceSystems.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\UpdateSystems.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\USBConfig.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\USBDefenses.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\Interop.Shell32.dll
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\BetterListViewExpress-net20.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\BetterListViewExpress-net20.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\ConfigurationResureses.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\ConfigurationResureses.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\DevComponents.DotNetBar2.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS_AsstClasses.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS_AsstClasses.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\OnlineSystems.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\OnlineSystems.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\SurveillanceSystems.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\SurveillanceSystems.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\UpdateSystems.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\UpdateSystems.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\USBConfig.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\USBConfig.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\USBDefenses.pdb
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\bin\Release\USBDefenses.xml
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.vbprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_DriveEncryption.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_Quarantine.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_Update.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_USB_DVICE.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_UpdateSettings.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_LOG.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_LOGCotrolsUint.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_MonitorsCotrolsUint.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_RegConfig.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_DeviceImmunizer.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_USBScanCotrolsUint.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.MainMain.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.Resources.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS._IMSS_About.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_MainSettings.resources
+C:\Users\User\Desktop\iMSS-6-17-2014\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.vbproj.GenerateResource.Cache
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS.exe.config
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS.exe
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\BetterListViewExpress-net20.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\ConfigurationResureses.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\DevComponents.DotNetBar2.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS_AsstClasses.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\OnlineSystems.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\SurveillanceSystems.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\UpdateSystems.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\USBConfig.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\USBDefenses.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\Interop.Shell32.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\BetterListViewExpress-net20.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\BetterListViewExpress-net20.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\ConfigurationResureses.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\ConfigurationResureses.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\DevComponents.DotNetBar2.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS_AsstClasses.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\IMSS_AsstClasses.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\OnlineSystems.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\OnlineSystems.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\SurveillanceSystems.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\SurveillanceSystems.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\UpdateSystems.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\UpdateSystems.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\USBConfig.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\USBConfig.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\USBDefenses.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Release\USBDefenses.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_DriveEncryption.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_Quarantine.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_Update.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_USB_DVICE.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_UpdateSettings.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_LOG.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_LOGCotrolsUint.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_MonitorsCotrolsUint.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_RegConfig.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_DeviceImmunizer.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_USBScanCotrolsUint.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.MainMain.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.Resources.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS._IMSS_About.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.IMSS_MainSettings.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.vbproj.GenerateResource.Cache
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.exe
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\Release\IMSS.vbprojResolveAssemblyReference.cache

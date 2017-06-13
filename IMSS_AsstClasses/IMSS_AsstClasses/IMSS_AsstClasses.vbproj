@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>
+    </SchemaVersion>
+    <ProjectGuid>{560E5BC0-883F-4A83-9BA1-472EDE61549D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>IMSS_AsstClasses</RootNamespace>
+    <AssemblyName>IMSS_AsstClasses</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>IMSS_AsstClasses.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>IMSS_AsstClasses.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ConfigurationResureses">
+      <HintPath>..\..\ConfigurationResureses\ConfigurationResureses\bin\Release\ConfigurationResureses.dll</HintPath>
+    </Reference>
+    <Reference Include="DevComponents.DotNetBar2, Version=10.4.0.1, Culture=neutral, PublicKeyToken=c39c3242a43eee2b, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1-Click View\CompleteUi.Designer.vb">
+      <DependentUpon>CompleteUi.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\CompleteUi.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Broken Short-Cut Cleaner\IMSS_CONTROL_GUI\IMSS_BrokenShortcutOptions.Designer.vb">
+      <DependentUpon>IMSS_BrokenShortcutOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Broken Short-Cut Cleaner\IMSS_CONTROL_GUI\IMSS_BrokenShortcutOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Broken Short-Cut Cleaner\IMSS_CONTROL_GUI\IMSS_BrokenShortcutUserControl.Designer.vb">
+      <DependentUpon>IMSS_BrokenShortcutUserControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Broken Short-Cut Cleaner\IMSS_CONTROL_GUI\IMSS_BrokenShortcutUserControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Browser Cleaner\IMSS_CONTROL_GUI\IMSS_BrowsersCleanerOptions.Designer.vb">
+      <DependentUpon>IMSS_BrowsersCleanerOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Browser Cleaner\IMSS_CONTROL_GUI\IMSS_BrowsersCleanerOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Browser Cleaner\IMSS_CONTROL_GUI\IMSS_CleanupBrowserUserControl.Designer.vb">
+      <DependentUpon>IMSS_CleanupBrowserUserControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Browser Cleaner\IMSS_CONTROL_GUI\IMSS_CleanupBrowserUserControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Browser Cleaner\IMSS_PATHS.vb" />
+    <Compile Include="1-Click View\IMSS Registry Cleanner\IMSS_CONTROL_GUI\IMSS_RegistryCleannerUserControl.Designer.vb">
+      <DependentUpon>IMSS_RegistryCleannerUserControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Registry Cleanner\IMSS_CONTROL_GUI\IMSS_RegistryCleannerUserControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Startup Cleaner\IMSS_CONTROL_GUI\IMSS_StartupCleanerUserControl.Designer.vb">
+      <DependentUpon>IMSS_StartupCleanerUserControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Startup Cleaner\IMSS_CONTROL_GUI\IMSS_StartupCleanerUserControl.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Windows Cleaner\IMSS_CONTROL_GUI\IMSS_WindowsCleaner.Designer.vb">
+      <DependentUpon>IMSS_WindowsCleaner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Windows Cleaner\IMSS_CONTROL_GUI\IMSS_WindowsCleaner.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Windows Cleaner\IMSS_CONTROL_GUI\IMSS_WindowsCleanerOptions.Designer.vb">
+      <DependentUpon>IMSS_WindowsCleanerOptions.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Windows Cleaner\IMSS_CONTROL_GUI\IMSS_WindowsCleanerOptions.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="1-Click View\IMSS Windows Cleaner\WindowsCleanerPaths.vb" />
+    <Compile Include="1-Click View\MainControls.Designer.vb">
+      <DependentUpon>MainControls.vb</DependentUpon>
+    </Compile>
+    <Compile Include="1-Click View\MainControls.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_CleanUpUtilities.designer.vb">
+      <DependentUpon>IMSS_CleanUpUtilities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_CleanUpUtilities.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_FamilyUtilities.designer.vb">
+      <DependentUpon>IMSS_FamilyUtilities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_FamilyUtilities.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_InternetUtilities.designer.vb">
+      <DependentUpon>IMSS_InternetUtilities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_InternetUtilities.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_LogSection.designer.vb">
+      <DependentUpon>IMSS_LogSection.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_LogSection.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_OptimizeComputerControlUint.designer.vb">
+      <DependentUpon>IMSS_OptimizeComputerControlUint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_OptimizeComputerControlUint.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_OtherUtilities.designer.vb">
+      <DependentUpon>IMSS_OtherUtilities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_OtherUtilities.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_RepairUtilities.designer.vb">
+      <DependentUpon>IMSS_RepairUtilities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_RepairUtilities.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_MINI_UINT\IMSS_StartButton.designer.vb">
+      <DependentUpon>IMSS_StartButton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_MINI_UINT\IMSS_StartButton.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_Utilities.designer.vb">
+      <DependentUpon>IMSS_Utilities.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_Utilities.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_MINI_UINT\_IMSS_MINI_UINT.designer.vb">
+      <DependentUpon>_IMSS_MINI_UINT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Layer View\IMSS_Assistance_Controls\IMSS_MINI_UINT\_IMSS_MINI_UINT.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="1-Click View\CompleteUi.resx">
+      <DependentUpon>CompleteUi.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1-Click View\IMSS Broken Short-Cut Cleaner\IMSS_CONTROL_GUI\IMSS_BrokenShortcutOptions.resx">
+      <DependentUpon>IMSS_BrokenShortcutOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1-Click View\IMSS Broken Short-Cut Cleaner\IMSS_CONTROL_GUI\IMSS_BrokenShortcutUserControl.resx">
+      <DependentUpon>IMSS_BrokenShortcutUserControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1-Click View\IMSS Browser Cleaner\IMSS_CONTROL_GUI\IMSS_BrowsersCleanerOptions.resx">
+      <DependentUpon>IMSS_BrowsersCleanerOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1-Click View\IMSS Browser Cleaner\IMSS_CONTROL_GUI\IMSS_CleanupBrowserUserControl.resx">
+      <DependentUpon>IMSS_CleanupBrowserUserControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1-Click View\IMSS Registry Cleanner\IMSS_CONTROL_GUI\IMSS_RegistryCleannerUserControl.resx">
+      <DependentUpon>IMSS_RegistryCleannerUserControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1-Click View\IMSS Startup Cleaner\IMSS_CONTROL_GUI\IMSS_StartupCleanerUserControl.resx">
+      <DependentUpon>IMSS_StartupCleanerUserControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1-Click View\IMSS Windows Cleaner\IMSS_CONTROL_GUI\IMSS_WindowsCleaner.resx">
+      <DependentUpon>IMSS_WindowsCleaner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1-Click View\IMSS Windows Cleaner\IMSS_CONTROL_GUI\IMSS_WindowsCleanerOptions.resx">
+      <DependentUpon>IMSS_WindowsCleanerOptions.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="1-Click View\MainControls.resx">
+      <DependentUpon>MainControls.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_CleanUpUtilities.resx">
+      <DependentUpon>IMSS_CleanUpUtilities.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_FamilyUtilities.resx">
+      <DependentUpon>IMSS_FamilyUtilities.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_InternetUtilities.resx">
+      <DependentUpon>IMSS_InternetUtilities.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_LogSection.resx">
+      <DependentUpon>IMSS_LogSection.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_OptimizeComputerControlUint.resx">
+      <DependentUpon>IMSS_OptimizeComputerControlUint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_OtherUtilities.resx">
+      <DependentUpon>IMSS_OtherUtilities.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_RepairUtilities.resx">
+      <DependentUpon>IMSS_RepairUtilities.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_MINI_UINT\IMSS_StartButton.resx">
+      <DependentUpon>IMSS_StartButton.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_Utilities.resx">
+      <DependentUpon>IMSS_Utilities.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layer View\IMSS_Assistance_Controls\IMSS_MINI_UINT\_IMSS_MINI_UINT.resx">
+      <DependentUpon>_IMSS_MINI_UINT.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{94E38DFF-614B-4CBD-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_Minus_Icon_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_RegeditAdd_MainIcon_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_Info_Icon_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMSS_StartButtonOnMouseStand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\IMSS_StartButtonOnMouseOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_LoadimgGif_Icon.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Shell32">
+      <Guid>{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_StartMaintenanc_Icon_24x24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_Complete_Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_Arrow_Icon_30x20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_Arrow_Icon_30x20_OnMouseOver.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_ProcessingWarning_Icon_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_SKIP_Icon_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_CANCEL_Icon_16x16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\_IMSS_MainWindow_Buttons_BG_Image.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

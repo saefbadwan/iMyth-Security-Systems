@@ -1,0 +1,12 @@
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\bin\Debug\USBConfig.dll
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\bin\Debug\USBConfig.pdb
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\bin\Debug\USBConfig.xml
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\obj\Debug\USBConfig.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\obj\Debug\USBConfig._IMSS_USBC.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\obj\Debug\USBConfig._IMSS_USBF.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\obj\Debug\USBConfig.dll
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\obj\Debug\USBConfig.xml
+C:\Users\User\documents\visual studio 2010\Projects\USBConfig\USBConfig\obj\Debug\USBConfig.pdb

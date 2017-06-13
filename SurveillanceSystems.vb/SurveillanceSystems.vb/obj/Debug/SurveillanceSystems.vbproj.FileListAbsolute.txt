@@ -1,0 +1,16 @@
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\bin\Debug\SurveillanceSystems.dll
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\bin\Debug\SurveillanceSystems.pdb
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\bin\Debug\SurveillanceSystems.xml
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\bin\Debug\ConfigurationResureses.dll
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\bin\Debug\ConfigurationResureses.pdb
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\bin\Debug\ConfigurationResureses.xml
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\SurveillanceSystems.IMSS_SCAN_UINT.resources
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\SurveillanceSystems.IMSS_SYSTEM_SENSOR.resources
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\SurveillanceSystems.IMSS_USB_SENSOR.resources
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\SurveillanceSystems.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\SurveillanceSystems.dll
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\SurveillanceSystems.xml
+C:\Users\User\documents\visual studio 2010\Projects\SurveillanceSystems.vb\SurveillanceSystems.vb\obj\Debug\SurveillanceSystems.pdb

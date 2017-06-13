@@ -1,0 +1,13 @@
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\bin\Debug\USBDefenses.vb.dll
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\bin\Debug\USBDefenses.vb.pdb
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\bin\Debug\USBDefenses.vb.xml
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.vb.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.vb.ScanManager.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.vb.USBScan.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.vb.dll
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.vb.xml
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.vb.pdb
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.vb.CleanResult.resources

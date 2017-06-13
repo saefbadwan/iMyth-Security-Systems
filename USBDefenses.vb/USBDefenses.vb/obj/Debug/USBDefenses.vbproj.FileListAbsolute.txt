@@ -1,0 +1,17 @@
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\bin\Debug\USBDefenses.dll
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\bin\Debug\ConfigurationResureses.dll
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\bin\Debug\ConfigurationResureses.pdb
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\bin\Debug\ConfigurationResureses.xml
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\Interop.Shell32.dll
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.vbproj.ResolveComReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.ScanManager.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.CleanResult.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.USBScan.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.ScanReport.resources
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.dll
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.xml
+C:\Users\User\documents\visual studio 2010\Projects\USBDefenses.vb\USBDefenses.vb\obj\Debug\USBDefenses.pdb

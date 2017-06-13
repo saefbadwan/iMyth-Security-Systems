@@ -1,0 +1,14 @@
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\bin\Debug\OnlineSystems.dll
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\bin\Debug\OnlineSystems.pdb
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\bin\Debug\OnlineSystems.xml
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\bin\Debug\ConfigurationResureses.dll
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\bin\Debug\ConfigurationResureses.pdb
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\bin\Debug\ConfigurationResureses.xml
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\obj\Debug\OnlineSystems.IMSS_CreashReport.resources
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\obj\Debug\OnlineSystems.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\obj\Debug\OnlineSystems.dll
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\obj\Debug\OnlineSystems.xml
+C:\Users\User\documents\visual studio 2010\Projects\OnlineSystems\OnlineSystems\obj\Debug\OnlineSystems.pdb

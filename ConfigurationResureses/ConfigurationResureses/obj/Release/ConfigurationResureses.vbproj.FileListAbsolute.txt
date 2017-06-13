@@ -1,0 +1,10 @@
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\bin\Release\ConfigurationResureses.dll
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\bin\Release\ConfigurationResureses.pdb
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\bin\Release\ConfigurationResureses.xml
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\obj\Release\ResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\obj\Release\ConfigurationResureses.Resources.resources
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\obj\Release\ConfigurationResureses.dll
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\obj\Release\ConfigurationResureses.xml
+C:\Users\User\documents\visual studio 2010\Projects\ConfigurationResureses\ConfigurationResureses\obj\Release\ConfigurationResureses.pdb

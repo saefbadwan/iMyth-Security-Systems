@@ -1,0 +1,195 @@
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\bin\Debug\IMSS.exe
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\bin\Debug\IMSS.pdb
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\bin\Debug\IMSS.xml
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.MainMain.resources
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.Resources.resources
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.Sucsses.resources
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.exe
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.xml
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.pdb
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\bin\Debug\IMSS.exe.config
+c:\users\imythss\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.Scan.resources
+C:\Users\iMythSS\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.SystemMonter.resources
+C:\Users\iMythSS\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.UsbMointor.resources
+C:\Users\iMythSS\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.Setting.resources
+C:\Users\iMythSS\documents\visual studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\IMSS.AboutIMSS.resources
+C:\Users\iMythSS\Documents\Visual Studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Users\iMythSS\Documents\Visual Studio 2010\Projects\IMSS\IMSS\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\bin\Debug\IMSS.exe.config
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\bin\Debug\IMSS.exe
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\bin\Debug\IMSS.pdb
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\bin\Debug\IMSS.xml
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Scan.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.MainMain.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Resources.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Scanner.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Setting.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Sucsses.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.SystemMonter.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.UsbMointor.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS._IMSSloading.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS._IMSS_About.resources
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.exe
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.xml
+C:\Users\iMSS\Desktop\_IMSS_systems\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.pdb
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\bin\Debug\IMSS.exe.config
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\bin\Debug\IMSS.exe
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\bin\Debug\IMSS.pdb
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\bin\Debug\IMSS.xml
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_AutorunCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_LOGCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_MonitorsCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_ToolsCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_USBScanCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Scan.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.MainMain.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Resources.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Scanner.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Setting.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.Sucsses.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.SystemMonter.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.UsbMointor.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS._IMSSloading.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS._IMSS_About.resources
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.exe
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.xml
+C:\Users\iMSS\Desktop\IMSSUpdated16\IMSS\IMSS\obj\x86\Debug\IMSS.pdb
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.exe.config
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.exe
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.pdb
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.xml
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSSAutoUpdate.dll
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSSAutoUpdate.pdb
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSSAutoUpdate.xml
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_AutorunCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_CleanUpUtilities.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_CreashReport.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_FamilyUtilities.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_InternetUtilities.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_Language.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_LOG.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_LOGCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_MonitorsCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_OptimizeComputerControlUint.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_PanelSlideUintUserControl.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_RegConfig.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_RepairUtilities.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_ToolsCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_UpdateInform.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_USBScanCotrolsUint.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_Utilities.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.Scan.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.MainMain.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.Resources.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.Sucsses.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS._IMSSloading.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS._IMSS_About.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_MainSettings.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.exe
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.xml
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.pdb
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\OSVersionInfo.dll
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\OSVersionInfo.pdb
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.SucssesWinXP.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS._IMSS_Scanning.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_USB_SENSOR.resources
+C:\Users\iMSS\Desktop\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_SYSTEM_SENSOR.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.exe.config
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.exe
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.xml
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.pdb
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.exe
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.pdb
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.xml
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSSAutoUpdate.pdb
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSSAutoUpdate.xml
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_AutorunCotrolsUint.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_CleanUpUtilities.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_USB_DVICE.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_CreashReport.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_FamilyUtilities.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_InternetUtilities.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_Language.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_LOG.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_LOGCotrolsUint.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_MonitorsCotrolsUint.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_OptimizeComputerControlUint.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_PanelSlideUintUserControl.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_RegConfig.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_RepairUtilities.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_ToolsCotrolsUint.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_UpdateInform.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_USBScanCotrolsUint.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_Utilities.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_USB_SENSOR.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.Scan.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.MainMain.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.Resources.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.Sucsses.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.SucssesWinXP.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_SYSTEM_SENSOR.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS._IMSSloading.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS._IMSS_About.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_MainSettings.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS._IMSS_Scanning.resources
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSSAutoUpdate.dll
+F:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_UPDATE_IN_ACTION.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.exe.config
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.exe
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\ConfigurationResureses.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS_AsstClasses.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\OnlineSystems.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\SurveillanceSystems.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\UpdateSystems.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\USBConfig.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\USBDefenses.dll
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\ConfigurationResureses.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\ConfigurationResureses.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS_AsstClasses.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\IMSS_AsstClasses.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\OnlineSystems.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\OnlineSystems.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\SurveillanceSystems.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\SurveillanceSystems.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\UpdateSystems.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\UpdateSystems.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\USBConfig.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\USBConfig.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\USBDefenses.pdb
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\bin\Debug\USBDefenses.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_DriveEncryption.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_Quarantine.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_Update.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_USB_DVICE.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_UpdateSettings.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_LOG.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_LOGCotrolsUint.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_MonitorsCotrolsUint.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_RegConfig.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_DeviceImmunizer.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_USBScanCotrolsUint.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.MainMain.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.Resources.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS._IMSS_About.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.IMSS_MainSettings.resources
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.vbproj.GenerateResource.Cache
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.exe
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.xml
+D:\IMSS Labs\IMSS Fixed\IMSS\IMSS\obj\x86\Debug\IMSS.pdb
