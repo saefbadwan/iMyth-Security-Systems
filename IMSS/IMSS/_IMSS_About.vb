@@ -1,6 +1,3 @@
-﻿'بسم الله ابدأ
-'يا رب يا الله يا رحيم يا عظيم يا كريم جل جلالك بأسمائك يا الله وفقني برحمتك
-
 Public Class _IMSS_About
 
     Private Sub _IMSS_AboutButtonClose_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles _IMSS_AboutButtonClose.Click
