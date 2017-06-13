@@ -1,5 +1,3 @@
-﻿'بسم الله ابدأ
-'يا رب يا الله يا رحيم يا عظيم جل جلالك بأسمائك يا الله وفقني برحمتك
 
 Imports System.IO
 Imports System.Security.AccessControl
