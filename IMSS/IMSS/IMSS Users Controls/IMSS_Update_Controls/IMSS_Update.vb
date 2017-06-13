@@ -1,6 +1,3 @@
-﻿' بسم الله الرحمن الرحيم
-
-
 Public Class IMSS_Update
 
 #Region " IMSS Main Decleration Var"
