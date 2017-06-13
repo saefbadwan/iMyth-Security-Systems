@@ -1,5 +1,3 @@
-﻿' بسم الله الرحمن الرحيم
-
 Public Class IMSS_UpdateSettings
 
     Private _IMSS_STATUSCHECK As Boolean
