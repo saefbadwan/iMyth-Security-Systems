@@ -1,4 +1,3 @@
-﻿' بسم الله الرحمن الرحيم
 Public Class IMSS_MainSettings
     Private _IMSS_CuruntType As Boolean = True
     Private IMSS_MonitorsCotrolsUint As New IMSS_MonitorsCotrolsUint
