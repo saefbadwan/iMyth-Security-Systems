@@ -1,4 +1,3 @@
-﻿' بسم الله الرحمن الرحيم
 Public Class IMSS_USB_DVICE
     Public Shared _IMSS_SELECT_STATUS As Boolean = False
     Public Property _IMSS_TARGET_DRIVE_TEXT As String
